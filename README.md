@@ -3,6 +3,7 @@
 There was a task to prepare a raw text data to the structured data format.
 
 There is a part of that raw data:
+
 ![part_of_raw_data](part_of_raw_data.png)
 
 The task is to convert it into readable .csv format. 
@@ -32,4 +33,5 @@ For every different ОКТМО and every different КБК it's needed to count v
 Then we can use this .csv file in BI instruments to visualize these values.
 
 E.g., there is a plot of how much taxes were accrued by every month.
+
 ![taxes_accrued](taxes_accrued.png)
