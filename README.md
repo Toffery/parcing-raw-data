@@ -13,19 +13,19 @@ When we reach '###' it means that value-block has started.
 
 Value-block contains following codes:
 
-*20200 means All-Russian classifier of events of municipalities (ОКТМО)
+* 20200 means All-Russian classifier of events of municipalities (ОКТМО)
 
-*20300 means budget classification code (КБК)
+* 20300 means budget classification code (КБК)
 
-*30100 means all taxes accrued
+* 30100 means all taxes accrued
 
-*30200 means all taxes recieved
+* 30200 means all taxes recieved
 
-*30300 means compensated
+* 30300 means compensated
 
-*40100 means total debt
+* 40100 means total debt
 
-*50000 means overpayment
+* 50000 means overpayment
 
 For every different ОКТМО and every different КБК it's needed to count values of all of the above codes.
 
